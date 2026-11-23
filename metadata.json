@@ -1,0 +1,6 @@
+{
+  "name": "NetAI — Network Troubleshooting & Fault Diagnosis",
+  "description": "Intelligent AI-based Cisco network troubleshooting, root cause analysis, diagnosis evaluation, and human expert review platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
